@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+
+    font-family: monospace;
+    text-align: center;
+}
+
+/*saqwf*/
+h1 {
+
+    font-size: xx-large;
+}
+
+#show_balance {
+
+    font-size: xx-large;
+    color: darkgoldenrod;
+}
+
+.getters {
+
+
+    background-color: rgb(56, 56, 212);
+
+    border-radius: 2rem;
+    padding: 8px;
+}
